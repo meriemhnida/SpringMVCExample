@@ -2,7 +2,7 @@
 <%@page import="java.util.ArrayList"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
-<%@page import="model.Produit"%>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,7 +37,7 @@
       <label>Id Fournisseur:</label>
       <input type="text" class="form-control" placeholder="saisir fournisseur" name="idFournisseur">
     </div>
-    <button type="submit" class="btn btn-primary">Enregistrer le produit dans la base de données</button>
+    <button type="submit" class="btn btn-primary">Enregistrer le produit dans la base de donnÃ©es</button>
   </form>
   <br> <br>
   
